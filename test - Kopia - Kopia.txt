@@ -26,3 +26,5 @@ Sprint-3 temat-2
 linia-2-1
 linia-2-2
 linia-2-3
+linia-2-4
+linia-2-5

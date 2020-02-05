@@ -1,4 +1,10 @@
 Test Git quick start demo
-Test Git quick start demo
-Test Git quick start demo
-Test Git quick start demo
+Test 
+Git quick start demo
+Test Git quick start 
+demo
+Test Git quick start 
+demo
+
+20200205 - dodano linie 1
+20200205 - dodano linie 2
